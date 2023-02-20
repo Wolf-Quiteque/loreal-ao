@@ -10,10 +10,7 @@ export const products = [
     currentPrice: 35000.0,
     sizes: ["xl", "l"],
     colors: ["#000", "6F3E18", "#D4BE8D", "#FFF"],
-    images: [
-      "https://www.hair-shop.com/en/media/catalog/product/cache/4/image/1400x1400/9df78eab33525d08d6e5fb8d27136e95/l/o/loreal-professionnel-se-vitamino-color-set-shampoo-300ml-conditioner-200ml_2.jpg",
-      "https://www.hair-shop.com/en/media/catalog/product/cache/4/image/1400x1400/9df78eab33525d08d6e5fb8d27136e95/l/o/loreal-professionnel-se-vitamino-color-set-shampoo-300ml-conditioner-200ml_2.jpg",
-    ],
+    images: ["/images/products/1.webp", "/images/products/1.webp"],
     punctuation: {
       countOpinions: 81,
       punctuation: 4.5,
@@ -73,10 +70,7 @@ export const products = [
     currentPrice: 15000.0,
     sizes: ["xl", "l"],
     colors: ["#000", "6F3E18", "#D4BE8D", "#FFF"],
-    images: [
-      "https://www.hair-shop.com/en/media/catalog/product/cache/4/image/1400x1400/9df78eab33525d08d6e5fb8d27136e95/l/o/loreal-professionnel-paris-serie-expert-metal-dx-oil-50ml.jpg",
-      "https://www.hair-shop.com/en/media/catalog/product/cache/4/image/1400x1400/9df78eab33525d08d6e5fb8d27136e95/l/o/loreal-professionnel-paris-serie-expert-metal-dx-oil-50ml.jpg",
-    ],
+    images: ["/images/products/2.webp", "/images/products/2.webp"],
     punctuation: {
       countOpinions: 81,
       punctuation: 4.5,
@@ -136,10 +130,7 @@ export const products = [
     currentPrice: 8000.99,
     sizes: ["xl", "l"],
     colors: ["#000", "6F3E18", "#D4BE8D", "#FFF"],
-    images: [
-      "https://www.hair-shop.com/en/media/catalog/product/cache/4/image/1400x1400/9df78eab33525d08d6e5fb8d27136e95/l/o/loreal-professionnel-tecni-art-web-150ml_1.jpg",
-      "https://www.hair-shop.com/en/media/catalog/product/cache/4/image/1400x1400/9df78eab33525d08d6e5fb8d27136e95/l/o/loreal-professionnel-tecni-art-web-150ml_1.jpg",
-    ],
+    images: ["/images/products/3.jpg", "/images/products/3.jpg"],
     punctuation: {
       countOpinions: 81,
       punctuation: 4.5,
@@ -199,10 +190,7 @@ export const products = [
     currentPrice: 6000.99,
     sizes: ["xl", "l"],
     colors: ["#000", "6F3E18", "#D4BE8D", "#FFF"],
-    images: [
-      "https://www.hair-shop.com/en/media/catalog/product/cache/4/image/1400x1400/9df78eab33525d08d6e5fb8d27136e95/l/o/loreal-professionnel-se-absolut-repair-shampoo-300ml.png",
-      "https://www.hair-shop.com/en/media/catalog/product/cache/4/image/1400x1400/9df78eab33525d08d6e5fb8d27136e95/l/o/loreal-professionnel-se-absolut-repair-shampoo-300ml.png",
-    ],
+    images: ["/images/products/4.webp", "/images/products/4.webp"],
     punctuation: {
       countOpinions: 81,
       punctuation: 4.5,
@@ -262,10 +250,8 @@ export const products = [
     currentPrice: 11000.99,
     sizes: ["xl", "l"],
     colors: ["#000", "6F3E18", "#D4BE8D", "#FFF"],
-    images: [
-      "https://www.hair-shop.com/en/media/catalog/product/cache/4/image/1400x1400/9df78eab33525d08d6e5fb8d27136e95/l/o/loreal-professionnel-mythic-oil-rich-mask-200ml.jpg",
-      "https://www.hair-shop.com/en/media/catalog/product/cache/4/image/1400x1400/9df78eab33525d08d6e5fb8d27136e95/l/o/loreal-professionnel-mythic-oil-rich-mask-200ml.jpg",
-    ],
+    images: ["/images/products/5.webp", "/images/products/5.webp"],
+
     punctuation: {
       countOpinions: 81,
       punctuation: 4.5,
@@ -326,10 +312,9 @@ export const products = [
     currentPrice: 11000.99,
     sizes: ["xl", "l"],
     colors: ["#000", "6F3E18", "#D4BE8D", "#FFF"],
-    images: [
-      "https://www.hair-shop.com/en/media/catalog/product/cache/4/image/1400x1400/9df78eab33525d08d6e5fb8d27136e95/l/o/loreal-professionnel-source-essentielle-nourishing-oil-75ml_1.jpg",
-      "https://www.hair-shop.com/en/media/catalog/product/cache/4/image/1400x1400/9df78eab33525d08d6e5fb8d27136e95/l/o/loreal-professionnel-source-essentielle-nourishing-oil-75ml_1.jpg",
-    ],
+
+    images: ["/images/products/6.webp", "/images/products/6.webp"],
+
     punctuation: {
       countOpinions: 81,
       punctuation: 4.5,
