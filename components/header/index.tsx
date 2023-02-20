@@ -63,7 +63,7 @@ const Header = ({ isErrorPage }: HeaderType) => {
             <a>
               <h1 className="site-logo">
                 <img
-                  src="images/logo.svg"
+                  src="https://loreal-ao.vercel.app/images/logo.svg"
                   style={{ height: "200", width: "150px" }}
                 />
               </h1>
