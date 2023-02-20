@@ -25,7 +25,7 @@ const PageIntro = () => {
             </div>
           </div>
         </SwiperSlide>
-
+        {/* 
         <SwiperSlide>
           <div
             className="page-intro__slide"
@@ -42,7 +42,7 @@ const PageIntro = () => {
               </div>
             </div>
           </div>
-        </SwiperSlide>
+        </SwiperSlide> */}
       </Swiper>
 
       <div className="shop-data">
