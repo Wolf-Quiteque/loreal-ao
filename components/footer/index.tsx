@@ -6,7 +6,7 @@ const Footer = () => {
           <div className="site-footer__description">
             <h6>
               <img
-                src="images/logo.svg"
+                src="https://loreal-ao.vercel.app/images/logo.svg"
                 style={{ height: "200", width: "100px" }}
               />
             </h6>
